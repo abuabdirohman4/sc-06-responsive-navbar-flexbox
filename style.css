@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    background-color: rgb(212, 19, 212);
+}
+
+nav ul {
+    display: flex;
+}
+
